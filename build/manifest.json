@@ -1,0 +1,8 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "Stars App",
+  "short_name": "Stars App",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

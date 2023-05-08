@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Stars App",
+    "slug": "snack-1d59eaf7-6043-40f6-ab04-7ffb15e6fb1d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "favicon": "./img/favicon.png"
+    }
+  }
+}
