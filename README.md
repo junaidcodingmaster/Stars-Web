@@ -10,7 +10,9 @@ Stars Web is a simple app that fetches data from the [Stars API]("https://github
 
 ## Installation
 
-To run Stars Web on your local machine, follow these steps:
+_Option 1_ : Use Stars Web without installation , just go to [stars-web-52055.web.app](https://stars-web-52055.web.app)
+
+_Option 2_ : To run Stars Web on your local machine, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/junaidcodingmaster/Stars-Web.git`
 2. Navigate to the project directory: `cd Stars-Web`
@@ -23,4 +25,4 @@ Stars Web is based on the [Stars API](https://github.com/junaidcodingmaster/Star
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.](./LICENSE.txt) file for details.
